@@ -1,0 +1,5 @@
+../Inc/syscalls.c:11:5:_close	1
+../Inc/syscalls.c:15:5:_fstat	1
+../Inc/syscalls.c:20:5:_isatty	1
+../Inc/syscalls.c:24:5:_lseek	1
+../Inc/syscalls.c:28:5:_read	1

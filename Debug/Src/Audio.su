@@ -1,0 +1,6 @@
+../Src/Audio.c:42:6:Audio_Init	4	static
+../Src/Audio.c:111:13:delay_us	24	static,ignoring_inline_asm
+../Src/Audio.c:130:6:Audio_Play_Tone	32	static
+../Src/Audio.c:213:6:Audio_Play_Melody	8	static
+../Src/Audio.c:273:6:Start_Music	8	static
+../Src/Audio.c:286:6:Stop_Music	4	static

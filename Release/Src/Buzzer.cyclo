@@ -1,0 +1,4 @@
+../Src/Buzzer.c:39:6:Buzzer_Init	1
+../Src/Buzzer.c:63:6:Buzzer_On	1
+../Src/Buzzer.c:69:6:Buzzer_Off	1
+../Src/Buzzer.c:78:6:Buzzer_Play_Tone	6

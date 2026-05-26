@@ -1,0 +1,3 @@
+../Src/USART.c:24:6:USART2_Init	1
+../Src/USART.c:100:6:USART2_Write	2
+../Src/USART.c:121:5:_write	2

@@ -1,0 +1,4 @@
+../Src/ADC.c:37:6:ADC_Pin_Init	4	static
+../Src/ADC.c:84:6:ADC_Init	16	static
+../Src/ADC.c:203:10:ADC_Read_Channel	24	static
+../Src/ADC.c:262:10:ADC_Read_Channel_Stable	24	static

@@ -1,0 +1,5 @@
+../Src/Buzzer.c:20:13:delay_us	24	static,ignoring_inline_asm
+../Src/Buzzer.c:39:6:Buzzer_Init	4	static
+../Src/Buzzer.c:63:6:Buzzer_On	4	static
+../Src/Buzzer.c:69:6:Buzzer_Off	4	static
+../Src/Buzzer.c:78:6:Buzzer_Play_Tone	32	static
